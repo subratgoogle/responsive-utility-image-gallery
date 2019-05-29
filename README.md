@@ -1,4 +1,4 @@
-## Responsive Utility Image Gallery
+## Responsive Utility Image Gallery, this is totally responsive
 <hr>
 
 ### This is similar to photo album.
