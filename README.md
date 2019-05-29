@@ -2,4 +2,4 @@
 <hr>
 
 ### This is similar to photo album.
-### This Image Gallery created with the help of Bootstrap
+### This Image Gallery created with the help of CSS freamwork Bootstrap
